@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 17-09-2025
+## Date: 26-09-2025
 
 ## AIM
 To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
@@ -53,8 +53,7 @@ class car(models.Model):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-09-17 155536.png>)
-
+![alt text](<Screenshot 2025-09-26 121034.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
